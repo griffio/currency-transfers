@@ -4,5 +4,19 @@
 
 Uses d3, cubism and browserify
 
-Shows the running trend of a currency to visualise if the currency is being traded in (Buy) or
-out(Sell) to another currency in positive/negative volumes.
+Shows the metric of a currency to visualise if the currency is being traded in (Buy) or
+out (Sell) by positive/negative volumes.
+
+TBC...
+
+Runs beefy
+
+~~~
+npm install
+npm start serve
+~~~
+
+scripts
+~~~
+serve": "beefy src/js/main.js:bundle.js --open"
+~~~
