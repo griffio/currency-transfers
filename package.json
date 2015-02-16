@@ -1,0 +1,20 @@
+{
+  "name": "cfclient",
+  "version": "0.1.0",
+  "description": "d3 visualisation of currency transfers",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "browserify --entry src/js/main.js --outfile bundle.js --debug",
+    "serve": "beefy src/js/main.js:bundle.js --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "griffio"
+  },
+  "author": "griffio",
+  "license": "ISC",
+  "dependencies": {
+    "cubism": "^1.6.0"
+  }
+}

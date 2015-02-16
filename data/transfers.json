@@ -1,0 +1,122 @@
+[
+  {
+    "userId": 1,
+    "currencyFrom": "EUR",
+    "currencyTo": "JPY",
+    "amountSell": 4845,
+    "rate": 0.7057,
+    "timePlaced": "2015-02-16 07:47:59",
+    "originatingCountry": "UK",
+    "amountBuy": 3419.1165
+  },
+  {
+    "userId": 2,
+    "currencyFrom": "EUR",
+    "currencyTo": "JPY",
+    "amountSell": 7437,
+    "rate": 0.5789,
+    "timePlaced": "2015-02-16 07:48:59",
+    "originatingCountry": "FR",
+    "amountBuy": 4305.2793
+  },
+  {
+    "userId": 3,
+    "currencyFrom": "EUR",
+    "currencyTo": "JPY",
+    "amountSell": 8959,
+    "rate": 0.655,
+    "timePlaced": "2015-02-16 07:49:59",
+    "originatingCountry": "US",
+    "amountBuy": 5868.145
+  },
+  {
+    "userId": 14,
+    "currencyFrom": "EUR",
+    "currencyTo": "GBP",
+    "amountSell": 3610,
+    "rate": 0.5454,
+    "timePlaced": "2015-02-16 07:50:59",
+    "originatingCountry": "FR",
+    "amountBuy": 1968.894
+  },
+  {
+    "userId": 16,
+    "currencyFrom": "EUR",
+    "currencyTo": "GBP",
+    "amountSell": 3882,
+    "rate": 0.6162,
+    "timePlaced": "2015-02-16 07:51:59",
+    "originatingCountry": "US",
+    "amountBuy": 2392.0884
+  },
+  {
+    "userId": 17,
+    "currencyFrom": "EUR",
+    "currencyTo": "GBP",
+    "amountSell": 8009,
+    "rate": 0.5093,
+    "timePlaced": "2015-02-16 07:52:59",
+    "originatingCountry": "US",
+    "amountBuy": 4078.9837
+  },
+  {
+    "userId": 18,
+    "currencyFrom": "EUR",
+    "currencyTo": "JPY",
+    "amountSell": 5494,
+    "rate": 0.673,
+    "timePlaced": "2015-02-16 07:53:59",
+    "originatingCountry": "US",
+    "amountBuy": 3697.462
+  },
+  {
+    "userId": 19,
+    "currencyFrom": "EUR",
+    "currencyTo": "JPY",
+    "amountSell": 2098,
+    "rate": 0.6385,
+    "timePlaced": "2015-02-16 07:54:59",
+    "originatingCountry": "US",
+    "amountBuy": 1339.573
+  },
+  {
+    "userId": 20,
+    "currencyFrom": "EUR",
+    "currencyTo": "GBP",
+    "amountSell": 5015,
+    "rate": 0.6837,
+    "timePlaced": "2015-02-16 07:55:59",
+    "originatingCountry": "UK",
+    "amountBuy": 3428.7555
+  },
+  {
+    "userId": 21,
+    "currencyFrom": "EUR",
+    "currencyTo": "GBP",
+    "amountSell": 2097,
+    "rate": 0.5941,
+    "timePlaced": "2015-02-16 07:56:59",
+    "originatingCountry": "UK",
+    "amountBuy": 1245.8277
+  },
+  {
+    "userId": 23,
+    "currencyFrom": "EUR",
+    "currencyTo": "GBP",
+    "amountSell": 7963,
+    "rate": 0.7643,
+    "timePlaced": "2015-02-16 07:57:59",
+    "originatingCountry": "US",
+    "amountBuy": 6086.1209
+  },
+  {
+    "userId": 24,
+    "currencyFrom": "EUR",
+    "currencyTo": "JPY",
+    "amountSell": 7055,
+    "rate": 0.651,
+    "timePlaced": "2015-02-16 07:58:59",
+    "originatingCountry": "US",
+    "amountBuy": 4592.805
+  }
+]
